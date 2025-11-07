@@ -1,0 +1,2 @@
+Here is a link towards the directory online, containing an update on every homework of this chapter:
+https://github.com/andreibaje/7-Interactive-Data-Analysis-and-Visualization-with-Python
